@@ -1,13 +1,44 @@
-<div align="left">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=ガイちゃんの%20ギットハブ%20😗&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=struct%20ReadmeGithub:%20App%20%7B%20%20%20%20%20WindowGroup%20%7B%20ContentView()%20%7D%20%7D&fontSize=25&fontAlignY=40&height=200&animation=fadeIn)
 
 <div align="right">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftheendofthefuxxingworld&count_bg=%238BFFDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%E3%83%81%E3%83%A5%E3%82%AD%E3%83%94&edge_flat=false" width="140" height="25"> 
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username&count_bg=%238BFFDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=見て&edge_flat=false" width="90" height="25"> 
   </a>
 </div>
 
 ---
-## うんと強がれば 運はこちらの味方でございますます大繁盛ウンタラカンタラ言い訳ご無用俯く視線にアッパーカット
-#### 안녕하슈크림빵
+
+## 🚀 About Me
+사용자 경험을 중요하게 생각하며, 직관적이고 사용하기 편리한 앱을 만드는 iOS 개발자가 되고 싶은 융합소프트웨어학부 대학생입니다. 
+
+#### 🎙️ TMI
+**최강삼성**
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-blue?style=flat-square)
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahrichu02@mgail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LeblancLaw/LeblancLaw)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://blog.naver.com/ahrichu)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=flat-square&logo=apple-music&logoColor=white)](https://music.apple.com/profile/xx0xx)
+
+</div>
